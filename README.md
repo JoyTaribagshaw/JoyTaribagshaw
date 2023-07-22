@@ -2,7 +2,7 @@
 
 
 <h3 align="center">A talented Frontend developer from Nigeria who is based in Accra, Ghana.</h3>
-🔭 I’m currently learning Full-Stack Web Development @microverse.<br>👯 I’m looking to collaborate like-minded individuals and contribute to open-source projects.<br>🤝 How to reach me: **joytaribagshaw@gmail.com**
+🔭 I’m currently learning Full-Stack Web Development at Microverse <br>👯 I’m looking to collaborate like-minded individuals and contribute to open-source projects.<br>🤝 How to reach me: joytaribagshaw@gmail.com
 <br>💬 Ask me about:  HTML, CSS, JavaScript, Bootstrap, Git, GitHub and React.<br>⚡ Fun fact: When I am not coding, I am creating art.
 
 
