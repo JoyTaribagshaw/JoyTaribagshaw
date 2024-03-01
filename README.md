@@ -1,6 +1,6 @@
 ### Hey, I'm Joy Tari Bagshaw 👋🏽  
 
-I'm a 20-year-old developer based in Ghana, and I'm passionate about crafting digital experiences. 
+I'm a 20-year-old developer based in Ghana, and I'm passionate about crafting seamless digital experiences. 
 
 - Check out my [website](https://joytaribagshaw.github.io/My-Portfolio/) to learn more about me.
 - Explore my [blog](https://thejoyoftech.hashnode.dev/) where I share insights and learnings.
@@ -22,8 +22,8 @@ I'm a 20-year-old developer based in Ghana, and I'm passionate about crafting di
 ## ✨ Fun Facts 
 
 - As a kid, I wanted to be a Surgeon.
-- - I love using Linux after switching from Windows.
-- I’m looking to collaborate like-minded individuals and contribute to open-source projects.
+- I love using Linux after switching from Windows.
+- I’m looking to collaborate with like-minded individuals and contribute to open-source projects.
 
 ## 📫 Contact
 
