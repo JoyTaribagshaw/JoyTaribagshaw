@@ -1,6 +1,6 @@
 ### Hey, I'm Joy Tari Bagshaw 👋🏽  
 
-I'm a 20-year-old developer based in Ghana, and I'm passionate about crafting seamless digital experiences. 
+I'm a Full-Stack Web Developer based in Ghana, and I'm passionate about crafting seamless digital experiences. 
 
 - Check out my [website](https://joytaribagshaw.github.io/My-Portfolio/) to learn more about me.
 - Explore my [blog](https://thejoyoftech.hashnode.dev/) where I share insights and learnings.
