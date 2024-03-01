@@ -1,10 +1,33 @@
-<h1 align="center">Hello, I am Joy Tari Bagshaw.</h1>
+### Hey, I'm Joy Tari Bagshaw 👋🏽  
 
+I'm a 20-year-old developer based in Ghana, and I'm passionate about crafting digital experiences. 
 
-<h3 align="center">A talented Frontend developer from Nigeria who is based in Accra, Ghana.</h3>
-👯 I’m looking to collaborate like-minded individuals and contribute to open-source projects.<br>🤝 How to reach me: joytaribagshaw@gmail.com
-<br>📝All of my projects are available at My Portfolio - https://joytaribagshaw.github.io/My-Portfolio/
-<br>💬 Ask me about:  HTML, CSS, JavaScript, Bootstrap, Git, GitHub and React.<br>⚡ Fun fact: When I am not coding, I am creating art.
+- Check out my [website](https://joytaribagshaw.github.io/My-Portfolio/) to learn more about me.
+- Explore my [blog](https://thejoyoftech.hashnode.dev/) where I share insights and learnings.
+- Check out [VSCode Configuration](https://github.com/JoyTaribagshaw/vscode-settings) for development optimization.
+- In my [Tiktok](https://tiktok.com/@code.with.joy), I share my learnings and tips to become a better developer. 
+ 
+## 📦 Toolbox
+
+**Frontend Development:** `HTML` `CSS` `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` 
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Ruby` `Ruby on Rails` `Firebase` `SQLite`
+
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` 
+
+**Others:** `API` `Figma` `Ubuntu` `Scrum` `Redux` `Database`
+ 
+## ✨ Fun Facts 
+
+- As a kid, I wanted to be a Surgeon.
+- - I love using Linux after switching from Windows.
+- I’m looking to collaborate like-minded individuals and contribute to open-source projects.
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/joytaribagshaw/). 
 
 
 ## 🌐 Socials:
