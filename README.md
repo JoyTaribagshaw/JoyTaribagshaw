@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer based in Ghana, and I'm passionate about crafting
  
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Angular`
+**Frontend Development:** `HTML` `CSS` `Javascript` `React` `Angular` `Next.js` `TypeScript` `Tailwind` `Material-UI` 
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
