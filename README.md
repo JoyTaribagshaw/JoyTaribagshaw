@@ -17,7 +17,7 @@ I'm a Full-Stack Web Developer based in Ghana, and I'm passionate about crafting
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` 
 
-**Others:** `API` `Figma` `Ubuntu` `Scrum` `Redux` `Database`
+**Others:** `API` `Figma` `Wordpress` `Wix` `Elementor` `Ubuntu` `Scrum` `Redux` `Database`
  
 ## ✨ Fun Facts 
 
